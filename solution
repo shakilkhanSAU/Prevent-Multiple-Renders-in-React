@@ -1,2 +1,0 @@
-## what to do when react redner the same component multiple times
-If you use a `console.log(state)` or anything in console you may notice the console is rendering multiple times and finally application become irresponsive or may crush, 
